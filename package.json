@@ -1,7 +1,7 @@
 {
   "name": "api-senchat",
   "scripts": {
-    "start": "json-server db.json --port $PORT --host 0.0.0.0 --no-static"
+    "start": "json-server db.json --port $PORT --host 0.0.0.0"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.3"
